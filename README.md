@@ -16,3 +16,6 @@ The website utilizes a responsive one-page layout. Use the navigation bar to jum
 
 ### Exploring the Site
 The website is built using HTML, CSS and Javascript and is currently hosted on GitHub Pages. Feel free to browse around!
+
+### Keeping Up-to-Date
+This website is a work in progress, so expect new content and updates regularly.
