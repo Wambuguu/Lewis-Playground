@@ -84,3 +84,22 @@ section:hover {
 #skills ul {
   font-size: 18px;
 }
+
+nav a {
+  font-weight: 500;
+  padding: 10px 27px;
+  color: white;
+  text-decoration: none;
+  text-emphasis-color: black;
+}
+
+nav a:hover{
+  color: blue;
+
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px 20px;
+}
