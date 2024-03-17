@@ -1,3 +1,4 @@
+
 body {
   background-image: url("/background.jpg"); 
   height: 100vh;
@@ -12,5 +13,11 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  text-align: center;
+}
+
+h1 {
+  padding-left: 20px;
+  padding-top: 0px;
   text-align: center;
 }
