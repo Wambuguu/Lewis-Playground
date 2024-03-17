@@ -1,6 +1,5 @@
 
-body {
-  background-image: url("/background.jpg"); 
+body { 
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -45,4 +44,14 @@ nav {
   justify-content: space-between;
   text-align: center;
   align-items: center;
+}
+
+section {
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: rgba(173, 216, 230, 0.26);
+  color: aliceblue;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out; 
 }
