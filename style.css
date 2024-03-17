@@ -104,6 +104,10 @@ nav ul li{
   padding: 10px 20px;
 }
 
+main {
+  padding: 20px;
+}
+
 footer {
   background-color: transparent;
   padding: 10px;
