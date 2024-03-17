@@ -75,3 +75,12 @@ section:hover {
 #contact a:hover {
   color: blue;
 }
+
+#about h2 + p {
+  text-align: left;
+  padding-left: 10px;
+}
+
+#skills ul {
+  font-size: 18px;
+}
