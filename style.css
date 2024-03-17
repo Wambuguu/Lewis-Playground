@@ -5,3 +5,12 @@ body {
   background-position: center;
   font-family: Arial, sans-serif;
 }
+
+header {
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
