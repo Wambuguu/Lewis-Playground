@@ -60,3 +60,18 @@ section {
 section:hover {
   transform: translateY(-5px); 
 }
+
+#contact p {
+  text-align: left;
+  padding-left: 10px;
+
+}
+
+#contact a {
+  font-size: 18px;
+  color: white;
+}
+
+#contact a:hover {
+  color: blue;
+}
