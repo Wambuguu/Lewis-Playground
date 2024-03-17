@@ -13,3 +13,6 @@ The website utilizes a responsive one-page layout. Use the navigation bar to jum
 - About Me: Learn about my background and what I do.
 - Skills: Discover the technologies I'm proficient in.
 - Contact: Reach out via email or social media.
+
+### Exploring the Site
+The website is built using HTML, CSS and Javascript and is currently hosted on GitHub Pages. Feel free to browse around!
